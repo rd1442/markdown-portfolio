@@ -4,7 +4,7 @@ layout: default
 
 #Ryan
 <br>
-![Image of Me] (https://www.australia.com/content/australia/en_us/places/sydney-and-surrounds/guide-to-sydney/jcr:content/image.adapt.1200.HIGH.jpg)
+![Image of Me](https://www.australia.com/content/australia/en_us/places/sydney-and-surrounds/guide-to-sydney/jcr:content/image.adapt.1200.HIGH.jpg)
 
 <br>
 
