@@ -2,11 +2,9 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
+#Ryan
 <br>
-
-{% include 02-image.md %}
+![Image of Me] (https://www.australia.com/content/australia/en_us/places/sydney-and-surrounds/guide-to-sydney/jcr:content/image.adapt.1200.HIGH.jpg)
 
 <br>
 
