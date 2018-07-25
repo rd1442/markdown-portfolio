@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Some things I like
+1. Peanuts
+2. Trees
+  * Palm
+  * Coconut
